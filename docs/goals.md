@@ -2,7 +2,7 @@
 
 Other than reclaiming the (arguably long lost) self-hosting skillset on the SaaS era, here's some ideas that motivate having servers at the hackerspace.
 
-Subject to triage and discussion among members. As heard IRL at the space, members are getting talking about:
+Subject to triage and discussion among members. As heard IRL at the space, members are talking about:
 
 * Running a CCHS Mastodon instance.
 * A matrix.org server wtih bridges to different chat services, good for hackerspace outreach.
