@@ -7,8 +7,8 @@ This series of posts are purely fictional, if anything described here matches re
 The chief security officer looks at the SGI rack with a few seconds worth of nostalgia and then swiftly rips all the ethernet cables from the switch, angry and frustrated. The following
 dialog ensues with characters:
 
-RHM: Regular Hackerspace Member
-CSO: Chief Security Officer
+* RHM: Regular Hackerspace Member
+* CSO: Chief Security Officer
 
 ```
 RHM - Mate, why did you do that?

@@ -1,8 +1,8 @@
 # Networking
 
-GigaX 1116i+ ASUS
-Cisco SF300-24
-AlliedTelesis 8100/24 POE
+* GigaX 1116i+ ASUS
+* Cisco SF300-24
+* AlliedTelesis 8100/24 POE
 
 # Compute
 
