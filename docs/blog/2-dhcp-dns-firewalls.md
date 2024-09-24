@@ -2,7 +2,7 @@
 
 We got access to the Cisco SF300-24 switch via a USB to Serial port converter cable (some sex reassignment required):
 
-![../img/icusb232.bom.jpg]
+![usb-serial](../img/icusb232.bom.jpg)
 
 After resetting the switch to the default factory settings and to our surprise, the default ip `192.168.1.254` for (web) interface configuration is nowhere to be found... instead there's `192.168.0.11` defined for some reason:
 
@@ -28,8 +28,8 @@ Defining VLAN tagging with the web interface for ports **1-6 and 13-18** is a br
 
 After checking the remaining check boxes of the previous blog, we should start thinking about defining our own DHCP/DNS arrangements and [mapping VLANs to and from Proxmox](https://pve.proxmox.com/wiki/Network_Configuration#sysadmin_network_vlan). So, more checkboxes to check out:
 
-- [ ]: Define redundant DHCP/DNS servers for our new broadcast domains (VLANs 100, 200 and 300).
-- [ ]: Discuss [split-horizon DNS configurations](https://en.wikipedia.org/wiki/Split-horizon_DNS).
-- [ ]: Route and firewall our newly defined VLANs appropriatedly via [Proxmox SDN](https://pve.proxmox.com/pve-docs/chapter-pvesdn.html)
-- [ ]: Discuss/configure/(trunk?) the other ASUS switch... probably reserve it for endpoints (laptops/users at the space)?.
-- [ ]: Discuss and replace noisy fan on Allied Telesys POE switch, which will become really handy for IoT powering of the space's access point, cameras and other IoT devices.
+- [ ] Define redundant DHCP/DNS servers for our new broadcast domains (VLANs 100, 200 and 300).
+- [ ] Discuss [split-horizon DNS configurations](https://en.wikipedia.org/wiki/Split-horizon_DNS).
+- [ ] Route and firewall our newly defined VLANs appropriatedly via [Proxmox SDN](https://pve.proxmox.com/pve-docs/chapter-pvesdn.html)
+- [ ] Discuss/configure/(trunk?) the other ASUS switch... probably reserve it for endpoints (laptops/users at the space)?.
+- [ ] Discuss and replace noisy fan on Allied Telesys POE switch, which will become really handy for IoT powering of the space's access point, cameras and other IoT devices.
