@@ -47,6 +47,6 @@ have a working local TFTP server.
 
 [enable_http_access]: https://community.cisco.com/t5/switching/can-t-access-web-interface-on-sf-300-24/td-p/2146915
 [sf300-24_troubleshooting]: https://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5007-firmware-upgrade-troubleshooting-on-300-and-500-series-manag.html
-[blessed_firmare]: https://software.cisco.com/download/home/283019680/type/282463181/release/1.4.1.03
+[blessed_firmware]: https://software.cisco.com/download/home/283019680/type/282463181/release/1.4.1.03
 [sf300-24_boot_upgrade]: https://www.cisco.com/c/en/us/support/docs/smb/switches/cisco-small-business-300-series-managed-switches/smb5862-Upgrade-Firmware-200-300-Switches.html#How-do-I-Upgrade-a-Boot-File-through-a-TFTP-Server
 [whole_update_process]: https://www.reddit.com/r/Cisco/comments/15hsqjp/cisco_300_series_firmware_upgrade_sf30048/
