@@ -17,3 +17,4 @@ Subject to triage and discussion among members. As heard IRL at the space, membe
 * K3S test cluster for training purposes.
 * VPN (Wireguard) for remote administration.
 * Ghidra server for collaborative reverse engineering
+* Gitea
