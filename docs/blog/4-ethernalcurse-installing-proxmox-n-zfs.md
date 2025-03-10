@@ -13,3 +13,6 @@ Gateway: 192.168.70.1 (bad)
 DNS: 1.1.1.1 (wont work with bad gateway)
 
 Password: (Not to be shared in any of the documentation, of course)
+
+## getting the ZFS RAID-Z1 up and running
+
