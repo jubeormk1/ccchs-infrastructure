@@ -12,7 +12,8 @@ Two multihomed machines, one with a large-ish hardware RAID5 disk array and the 
 
 [IBM x3650 M3](https://lenovopress.lenovo.com/tips0805-system-x3650-m3)
 
-/!\ WARNING: DIMM on slot 24 flagged as faulty.
+/!\ ~~WARNING: DIMM on slot 24 flagged as faulty.~~
+/!\ WARNING: DIMM on slot 17 flagged as faulty.
 
 Main machine in the ProxMox cluster:
 
