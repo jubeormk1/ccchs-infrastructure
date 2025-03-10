@@ -41,7 +41,7 @@ sdf                  8:80   0 930.4G  0 disk
 sdg                  8:96   0 930.4G  0 disk
 ```
 
-the zpool is created as:
+The zpool is created as:
 
 `zpool create storagepool raidz1 /dev/sdb /dev/sdc /dev/sdd /dev/sde /dev/sdf /dev/sdg`
 
@@ -64,4 +64,12 @@ config:
 errors: No known data errors
 ```
 
-the pool has been mounted in `/storagepool/`
+**The pool has been mounted in `/storagepool/`**
+
+## Segmenting the pool: Datasets
+
+To start, I have added two dataset to the storage pool, vs-disks, isos and backups. Adding them is trivial eg.`zfs create mypool/vm-disks`.
+
+## Next steps
+
+- Configuring the storage in Proxmox to make use of the ZFS Pool.
