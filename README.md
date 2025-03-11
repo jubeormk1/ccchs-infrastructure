@@ -2,7 +2,7 @@
 
 Welcome to the infrastructure as code and documentation for the Connected Community Hacker Space, Melbourne.
 
-Make sure you have [`pre-commit`](https://github.com/pre-commit/) locally installed before commiting to this repository.
+Make sure you have [`pre-commit`](https://github.com/pre-commit/) locally installed before committing to this repository.
 
 ## Ground rules
 
