@@ -7,4 +7,4 @@ In this step I need to learn about the storage needs for Proxmox. Still gatherin
 ## References
 
 [Proxmox VE Docs: Storage](https://pve.proxmox.com/pve-docs/chapter-pvesm.html)
-[Proxmox VE Docs: Storage ](https://pve.proxmox.com/pve-docs/chapter-pvesm.html#_storage_configuration)
+[Proxmox VE Docs: Storage Configuration](https://pve.proxmox.com/pve-docs/chapter-pvesm.html#_storage_configuration)
